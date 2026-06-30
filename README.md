@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kumar Gaurav</h1>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gsoftranchi-ship-it/gsoftranchi-ship-it/main/banner.png" width="100%" alt="Kumar Gaurav Banner"/>
+</p>
+# Hi 👋, I'm Kumar Gaurav
 
 <h3 align="center">
 Flutter Developer • Firebase • AI Data Annotation • Virtual Assistant
