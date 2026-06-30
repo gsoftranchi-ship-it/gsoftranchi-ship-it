@@ -12,7 +12,7 @@ Flutter Developer • Firebase • AI Data Annotation • Virtual Assistant
 - 🌱 Learning **Advanced Flutter & Firebase**
 - 💼 Looking for **Remote Flutter Developer, AI Evaluator & Data Annotation Opportunities**
 - 💬 Ask me about **Flutter, Firebase, Provider, Dart**
-- 📍 Godda, Jharkhand, India
+- 📍 Pune, Maharashtra, India.
 
 ---
 
