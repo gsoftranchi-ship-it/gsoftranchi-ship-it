@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gsoftranchi-ship-it/gsoftranchi-ship-it/main/Banner.png" width="100%" alt="Kumar Gaurav Banner"/>
+  <img src="https://raw.githubusercontent.com/gsoftranchi-ship-it/gsoftranchi-ship-it/main/banner.png" width="100%" alt="Kumar Gaurav Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Kumar Gaurav</h1>
